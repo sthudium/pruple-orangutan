@@ -1,4 +1,4 @@
-Untitled
+Github example report
 ================
 
 GitHub Documents
@@ -25,6 +25,12 @@ summary(cars)
 
 Including Plots
 ---------------
+
+``` r
+plot(rnorm(40), type = "l", col = "orange")
+```
+
+![](rstudio_report_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
 You can also embed plots, for example:
 

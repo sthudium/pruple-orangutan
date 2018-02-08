@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Github example report"
 output: github_document
 ---
 
@@ -17,9 +17,14 @@ You can include R code in the document as follows:
 
 ```{r cars}
 summary(cars)
+
 ```
 
 ## Including Plots
+
+```{r}
+plot(rnorm(40), type = "l", col = "orange")
+```
 
 You can also embed plots, for example:
 

@@ -22,7 +22,7 @@ summary(cars)
 
 ## Including Plots
 
-```{r}
+```{r, echo=FALSE}
 plot(rnorm(40), type = "l", col = "orange")
 ```
 
